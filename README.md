@@ -1,8 +1,20 @@
-# kiburabate
+
 <!-- ===================================================== -->
 <!-- KIBUR ABATE | GITHUB PROFILE README -->
 <!-- Replace YOUR_USERNAME with your exact GitHub username -->
 <!-- ===================================================== -->
+
+<div align="center">
+  <img
+    src="kb.jpg"
+    alt="Kibur Abate's profile photo"
+    width="180"
+    style="border-radius: 50%;"
+  />
+
+  <h2>Kibur Abate</h2>
+  <p>Computer Science Student | Aspiring Full-Stack Developer</p>
+</div>
 
 <div align="center">
 
