@@ -14,8 +14,8 @@
   <img
     src="kb.jpg"
     alt="Kibur Abate's profile photo"
-    width="300"
-   height="300"
+    width="auto"
+   height="auto"
     style="border-radius: 50%;"
   />
 </div>      ### 👋 Hello, I'm Kibur Abate
