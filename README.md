@@ -4,23 +4,20 @@
 <!-- Replace YOUR_USERNAME with your exact GitHub username -->
 <!-- ===================================================== -->
 
+
+
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kibur%20Abate&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descSize=15&descAlignY=58" width="100%" alt="Kibur Abate GitHub profile banner"/>
+
+ <div align="center">
   <img
     src="kb.jpg"
     alt="Kibur Abate's profile photo"
     width="180"
     style="border-radius: 50%;"
   />
-
-  <h2>Kibur Abate</h2>
-  <p>Computer Science Student | Aspiring Full-Stack Developer</p>
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kibur%20Abate&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descSize=15&descAlignY=58" width="100%" alt="Kibur Abate GitHub profile banner"/>
-
-### 👋 Hello, I'm Kibur Abate
+</div>      ### 👋 Hello, I'm Kibur Abate
 
 **Computer Science Student | Aspiring Full-Stack Developer**
 
