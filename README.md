@@ -31,7 +31,13 @@
 
 ---
 
-##   <img src="kb1.jpg" height="10" width="10" /> About Me
+  <img
+    src="kb1.png"
+    alt="My Avatar"
+    width="120"
+    height="120"
+    style="border-radius: 50%; object-fit: cover;"
+  /> About Me
 
 I'm a Computer Science student passionate about software development, web technologies, and solving real-world problems through code.
 
