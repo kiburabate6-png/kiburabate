@@ -31,7 +31,7 @@
 
 ---
 
-##   <img src="kb1.jpg" /> About Me
+##   <img src="kb1.jpg" height="10" width="10" /> About Me
 
 I'm a Computer Science student passionate about software development, web technologies, and solving real-world problems through code.
 
